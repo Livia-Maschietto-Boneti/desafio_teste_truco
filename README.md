@@ -1,7 +1,7 @@
 Lívia Maschietto Boneti - 24000749-2
 Maria Eduarda Bellarmino Duarte 24036202-2
 # ATIVIDADE DE TESTE DE SOFTWARE — TRUCO PAULISTA 
-1. Introdução 
+# 1. Introdução 
 Este projeto tem como objetivo desenvolver e testar regras de negócio de uma versão 
 simplificada do jogo Truco Paulista, utilizando a linguagem Java, o Maven e o 
 framework JUnit 5 para a realização de testes automatizados. 
