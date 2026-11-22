@@ -1,0 +1,10 @@
+{
+  "name": "truco-paulista",
+  "version": "1.0.0",
+  "description": "Conversão da atividade extra de Teste de Software - Truco Paulista de Java para JavaScript",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/Main.js"
+  }
+}
